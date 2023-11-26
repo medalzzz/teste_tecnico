@@ -57,29 +57,29 @@ incluindo dados do cliente, transportadora e remetente.
 
 2- Inicialize o git nessa pasta
 ```bash
-  git init
+git init
 ```
 
 3- Adicione o link do repositório
 ```bash
-  git remote add origin https://github.com/medalzzz/teste_tecnico
+git remote add origin https://github.com/medalzzz/teste_tecnico
 ```
 
 4- Localize os dados da branch main
 ```bash
-   git fetch origin
+git fetch origin
 ```
 
 5- Puxe os dados da branch main
 ```bash
-  git pull origin main
+git pull origin main
 ```
 
 6- Monte o container
 ```bash
-  docker-compose up -d
+docker-compose up -d
 ```
 7- Projeto agora acessível no link:
 ```bash
-  http://localhost:9000
+http://localhost:9000
 ```
