@@ -8,7 +8,7 @@
    <table class="table">
       <thead class="thead-dark">
          <tr>
-            <th scope="col">ID do Pacote</th>
+            <th scope="col">ID da Entrega</th>
             <th scope="col">Status</th>
             <th scope="col">Data do Pedido</th>
             <th scope="col">Remetente</th>
